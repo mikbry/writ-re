@@ -4,7 +4,7 @@
 
 ## WIP
 
-- [ ] Rust lib
+- [ ] Rust core
 - [ ] App front
 - [ ] Simple syntax analytics (words count, ...)
 - [ ] Markdown support
