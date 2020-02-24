@@ -1,5 +1,5 @@
 [package]
-name = "core"
+name = "writ-re-core"
 version = "0.1.0"
 authors = ["Mik <mik@miklabs.com>"]
 edition = "2018"

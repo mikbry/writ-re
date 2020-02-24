@@ -6,4 +6,4 @@ mod tests {
     }
 }
 //
-pub mod writ_re;
+pub mod parser;

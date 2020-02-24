@@ -1,6 +1,7 @@
 mod utils;
 
 use wasm_bindgen::prelude::*;
+use writ_re_core::parser;
 
 // When the `wee_alloc` feature is enabled, use `wee_alloc` as the global
 // allocator.
@@ -21,6 +22,6 @@ pub fn greet() {
 #[wasm_bindgen]
 pub fn parse(content: &str) -> usize {
     // TODO
-    let count = content.len();
+    let count = parser::parse(content);
     count
 }
