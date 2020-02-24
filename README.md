@@ -1,12 +1,14 @@
-# Writ.re
+# `writ-re`
 
-> AI augmented writting tools
+It is an experimentation to test Rust, WASM and NLP technologies like BERT's models.
+
+> AI content creation tool
 
 ## WIP
 
-- [ ] Rust core
-- [ ] App front
-- [ ] Simple syntax analytics (words count, ...)
+- [ ] Rust core / wasm
+- [ ] React App
+- [ ] Simple syntax analytics (words, count, ...)
 - [ ] Markdown support
-- [ ] BERT enhancement
-- [ ] Website writ.re
+- [ ] integrate BERT 
+
